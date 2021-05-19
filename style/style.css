@@ -1,0 +1,81 @@
+
+
+
+
+
+/* accuel */
+.site-title{
+    margin-top: 60px;
+}
+.main-menu{
+    border-bottom: 1px solid gainsboro;
+}
+#font{
+    background-image: url("../img/font2.png");
+    background-position: center;
+    background-size: cover;
+    background-position-x: -190px;
+    
+     
+}
+.call_to_action{
+    margin-top: 60px;
+   background-color: #00aeef;
+}
+.img-fluid{
+    height: 500px;
+}
+
+
+/* fin accueil */
+
+
+
+/* a propos */
+#btn_download{
+    border-radius: 25px;
+    margin-left: 90px;
+}
+
+.btn_download_cv{
+    margin-top: 10px;
+}
+.btn_download_cv a{
+    background-color: #00aeef;
+    box-shadow: 2px black;
+    color: white;
+    text-decoration: none;
+    margin-top: 5px;
+
+}
+.btn_download_cv a:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+/* fin a propos */
+
+
+/* lign3 */
+.ligne3{
+    background-color: #00aeef;
+    padding: 10px;
+    margin-top: 8px;
+}
+
+.mz-module-button{
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 10px;
+    color: honeydew;
+    text-decoration: none;
+
+}
+.mz-module a:hover{
+  background-color: gainsboro;
+  border: 2px solid white;
+  text-decoration: none;
+  box-shadow: green;
+}
+ 
+/* fin lign 3 */
